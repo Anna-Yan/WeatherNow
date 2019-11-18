@@ -11,7 +11,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f5318a-53b5-4697-ae88-0881d2743eaa" name="Default Changelist" comment="" />
+    <list default="true" id="72f5318a-53b5-4697-ae88-0881d2743eaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -397,14 +400,30 @@
       <option name="project" value="LOCAL" />
       <updated>1574039118101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added &quot;Today&quot;, &quot;Next 5 days&quot;, and &quot;Search&quot; features :)">
+      <created>1574039540634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574039540634</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1280" height="726" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49882904" visible="true" weight="0.26140064" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49882904" visible="true" weight="0.26140064" />
       <window_info id="Structure" order="2" sideWeight="0.50117093" side_tool="true" weight="0.26140064" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -412,15 +431,15 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Messages" weight="0.3284553" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49918568" weight="0.3284553" />
       <window_info anchor="bottom" id="Run" order="0" />
       <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49918568" weight="0.34471545" />
-      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49918568" weight="0.3284553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32954547" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3284553" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5008143" side_tool="true" weight="0.3284553" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49918568" visible="true" weight="0.3284553" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49918568" weight="0.499187" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.497557" visible="true" weight="0.3284553" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.502443" side_tool="true" visible="true" weight="0.3284553" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49918568" weight="0.3284553" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49837133" weight="0.499187" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.5081169" />
       <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
